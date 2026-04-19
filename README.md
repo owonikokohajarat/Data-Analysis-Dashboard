@@ -49,7 +49,8 @@ Areas to focus resources on:
 •	Retention (At Risk, Need Attention, Hibernating)
 •	Growth (Promising, New Customers → Loyalists)
 •	Value maximization (Champions, Loyalists)
-Recommendations Customers on
+## Recommendations 
+Customers on
 •	Champions: Reward loyalty with exclusive offers.
 •	Potential Loyalists: Encourage repeat purchases with discounts.
 •	At Risk: Re engagement campaigns to win back high spenders.
