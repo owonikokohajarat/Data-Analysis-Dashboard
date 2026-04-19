@@ -36,6 +36,21 @@ Step 4: Segment Aggregation
 Step 5: Visualization: 
 Charts created in Python using Matplotlib and Seaborn.
 
+
+
 ## Dashboard
 <img width="2390" height="790" alt="rfm_dashboard" src="https://github.com/user-attachments/assets/4dd0bd6e-c483-4396-8b84-ffeb5e5aa42d" />
 
+## Project Insights
+Our refined RFM segmentation shows that while 33% of customers are Loyalists or Promising, 25.8% are At Risk of churn. This group requires immediate attention to prevent revenue loss. Champions, though only 0.1%, represent our most valuable customers and should be nurtured with exclusives. Promising and New Customers together form 30% of the base, offering strong growth potential. Hibernating and Need Attention customers highlight re engagement opportunities.
+
+## Conclusion
+Areas to focus resources on:
+•	Retention (At Risk, Need Attention, Hibernating)
+•	Growth (Promising, New Customers → Loyalists)
+•	Value maximization (Champions, Loyalists)
+Recommendations Customers on
+•	Champions: Reward loyalty with exclusive offers.
+•	Potential Loyalists: Encourage repeat purchases with discounts.
+•	At Risk: Re engagement campaigns to win back high spenders.
+•	Lost: Minimal ROI; consider low-cost reactivation or removal from campaigns
